@@ -1,0 +1,34 @@
+{
+	"name": "wp-plugin-related-posts-tailwindcss",
+	"version": "1.0.0",
+	"description": "Related Posts Custom with Tailwind CSS.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/susantokun/wp-plugin-related-posts-tailwindcss.git"
+	},
+	"keywords": [
+		"susantokun",
+		"wp",
+		"related",
+		"posts",
+		"wp",
+		"related",
+		"posts",
+		"custom",
+		"related",
+		"posts",
+		"custom",
+		"wordpress",
+		"tailwindcss"
+	],
+	"author": "susantokun <admin@susantokun.com> (http://www.susantokun.com)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/susantokun/wp-plugin-related-posts-tailwindcss/issues"
+	},
+	"homepage": "https://github.com/susantokun/wp-plugin-related-posts-tailwindcss#readme"
+}
